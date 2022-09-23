@@ -1,6 +1,6 @@
-#Expenses App
+### Expenses App
 
-This project was bootstrapped with [App Link](https://expenses-app-003.netlify.app/)
+## [App Link](https://expenses-app-003.netlify.app/)
 
 ## Functionalities
 
